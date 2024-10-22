@@ -50,10 +50,8 @@ Summary test raport
 Summary : 
 On 11 test cases executed, 11 were passed (100%) . Tested functionalities works according to the requirements. 
 
-![login_cases](https://github.com/user-attachments/assets/44223bf4-9d5e-4584-9c9c-78c8269c6a26)
+![login_cases](https://github.com/user-attachments/assets/1f3712dc-44e2-417a-9de0-e2af83ff8f06)
 
-![cart_cases](https://github.com/user-attachments/assets/27d2c470-3f0a-49cf-84f8-921d22b354be)
+![cart_cases](https://github.com/user-attachments/assets/19f7db00-818c-4d77-a2ea-7751fe68d1e3)
 
-![checkout_cases](https://github.com/user-attachments/assets/61063d51-a904-4d3e-8070-87418122cb54)
-
-
+![checkout_cases](https://github.com/user-attachments/assets/3b00d1fb-cd9b-4d41-992d-0bb6effb0e23)
