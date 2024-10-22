@@ -55,3 +55,9 @@ On 11 test cases executed, 11 were passed (100%) . Tested functionalities works 
 ![cart_cases](https://github.com/user-attachments/assets/19f7db00-818c-4d77-a2ea-7751fe68d1e3)
 
 ![checkout_cases](https://github.com/user-attachments/assets/3b00d1fb-cd9b-4d41-992d-0bb6effb0e23)
+
+![raport_1](https://github.com/user-attachments/assets/10907967-1f59-4823-bdb8-7c8671cc8d4e)
+![raport_3](https://github.com/user-attachments/assets/b23f0156-32a6-4e29-8174-4f22acd6d855)
+![raport_4](https://github.com/user-attachments/assets/bbcb67df-a6bd-4f25-8da0-d1eb11f1a1a7)
+
+
