@@ -1,4 +1,4 @@
-**PROJECT_1_Manual-testing-**
+**PROJECT_1_Manual-testing**
 
 **Description** :
 
