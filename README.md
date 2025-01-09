@@ -1,4 +1,4 @@
-**PROJECT_1_Manual_testing_with_testrail**
+**PROJECT_1_Manual_testing_with_TestRail**
 
 **Description** :
 
